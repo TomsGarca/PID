@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universidad\\Administracion SO\\Proyecto PID\\Interfaz\\Interfaz\\Interfaz.csproj",
+      "projectUniqueName": "D:\\GitHub_Rep\\PID\\C#\\Interfaz.csproj",
       "projectName": "Interfaz",
-      "projectPath": "D:\\Universidad\\Administracion SO\\Proyecto PID\\Interfaz\\Interfaz\\Interfaz.csproj",
+      "projectPath": "D:\\GitHub_Rep\\PID\\C#\\Interfaz.csproj",
       "packagesPath": "C:\\Users\\Tomas Garcia\\.nuget\\packages\\",
-      "outputPath": "D:\\Universidad\\Administracion SO\\Proyecto PID\\Interfaz\\Interfaz\\obj\\",
+      "outputPath": "D:\\GitHub_Rep\\PID\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

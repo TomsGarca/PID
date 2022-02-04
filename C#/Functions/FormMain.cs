@@ -15,10 +15,12 @@ namespace Interfaz
             Form emergeNT = new Form2();
             emergeNT.ShowDialog();
         }
+
         private void setText(string text)
         {
             textBox1.Text = text;
         }
+
         private void button2_Abrir_Archivo(object sender, EventArgs e)
         {
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
@@ -35,27 +37,33 @@ namespace Interfaz
                 }
             }
         }
+
         private void button2_Agregar_Tarea(object sender, EventArgs e)
         {
             MessageBox.Show("Tarea agregada exitosamente :3");
             textBox1.Text = " ";
         }
+
         private void button3_Click_1(object sender, EventArgs e)
         {
 
         }
+
         private void button4_Click_1(object sender, EventArgs e)
         {
             Form emergenteMP = new Form3();
             emergenteMP.ShowDialog();
         }
+
         private void button5_Click_1(object sender, EventArgs e)
         {
 
         }
+        
         private void button6_Click_1(object sender, EventArgs e)
         {
-
+            Form emergenteET = new Form4();
+            emergenteET.ShowDialog();
         }
     }
 }

@@ -7,6 +7,7 @@ namespace Interfaz
         {
             InitializeComponent();
         }
+        
         private void button1_Agregar(object sender, EventArgs e)
         {
             MessageBox.Show("Tarea agregada exitosamente :3");

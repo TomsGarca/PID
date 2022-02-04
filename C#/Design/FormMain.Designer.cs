@@ -54,43 +54,43 @@
             this.label2.Text = "¡BIENVENIDO!";
 
             this.button1.Location = new System.Drawing.Point(15, 70);
-            this.button1.Name = "button1";
+            this.button1.Name = "NuevaTarea";
             this.button1.Size = new System.Drawing.Size(300, 25);
             this.button1.Text = "Nueva Tarea";
             this.button1.Click += new EventHandler(this.button1_Click_1);
 
             this.button2.Location = new System.Drawing.Point(215, 100);
-            this.button2.Name = "button2";
+            this.button2.Name = "ElegirArchivo";
             this.button2.Size = new System.Drawing.Size(100, 25);
             this.button2.Text = "Elegir Archivo";
             this.button2.Click += new EventHandler(this.button2_Abrir_Archivo);
 
             this.button2_1.Location = new System.Drawing.Point(15, 130);
-            this.button2_1.Name = "button3";
+            this.button2_1.Name = "AddTareaArch";
             this.button2_1.Size = new System.Drawing.Size(300, 25);
             this.button2_1.Text = "Agregar Tarea desde Archivo";
             this.button2_1.Click += new EventHandler(this.button2_Agregar_Tarea);
 
             this.button3.Location = new System.Drawing.Point(15, 130);
-            this.button3.Name = "button3";
+            this.button3.Name = "ListTarea";
             this.button3.Size = new System.Drawing.Size(300, 25);
             this.button3.Text = "Lista de Tarea";
             this.button3.Click += new EventHandler(this.button3_Click_1);
 
             this.button4.Location = new System.Drawing.Point(15, 160);
-            this.button4.Name = "button4";
+            this.button4.Name = "ModProcesador";
             this.button4.Size = new System.Drawing.Size(300, 25);
             this.button4.Text = "Modificar Procesador";
             this.button4.Click += new EventHandler(this.button4_Click_1);
 
             this.button5.Location = new System.Drawing.Point(15, 190);
-            this.button5.Name = "button5";
+            this.button5.Name = "Iniciar";
             this.button5.Size = new System.Drawing.Size(300, 25);
             this.button5.Text = "Iniciar";
             this.button5.Click += new EventHandler(this.button5_Click_1);
 
             this.button6.Location = new System.Drawing.Point(15, 220);
-            this.button6.Name = "button6";
+            this.button6.Name = "Eliminar";
             this.button6.Size = new System.Drawing.Size(300, 25);
             this.button6.Text = "Eliminar";
             this.button6.Click += new EventHandler(this.button6_Click_1);

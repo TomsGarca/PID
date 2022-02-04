@@ -6,6 +6,7 @@ namespace Interfaz
         {
             InitializeComponent();
         }
+
         private void comboBox1_SelectItem(object sender, EventArgs e)
         {
             if (this.comboBox1.Text == "Mono-Proceso")
@@ -21,6 +22,7 @@ namespace Interfaz
                 this.comboBox2.DropDownHeight = 75;
             }
         }
+        
         private void button1_Guardar(object sender, EventArgs e)
         {
             MessageBox.Show("Procesador modificado exitosamente :3");
