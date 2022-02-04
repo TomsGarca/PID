@@ -1,0 +1,15 @@
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\bin\Debug\net6.0-windows\Interfaz.exe
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\bin\Debug\net6.0-windows\Interfaz.deps.json
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\bin\Debug\net6.0-windows\Interfaz.runtimeconfig.json
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\bin\Debug\net6.0-windows\Interfaz.dll
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\bin\Debug\net6.0-windows\ref\Interfaz.dll
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\bin\Debug\net6.0-windows\Interfaz.pdb
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.AssemblyReference.cache
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\Interfaz.AssemblyInfoInputs.cache
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\Interfaz.AssemblyInfo.cs
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\Interfaz.csproj.CoreCompileInputs.cache
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\Interfaz.dll
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\ref\Interfaz.dll
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\Interfaz.pdb
+D:\Universidad\Administracion SO\Proyecto PID\Interfaz\Interfaz\obj\Debug\net6.0-windows\Interfaz.genruntimeconfig.cache
