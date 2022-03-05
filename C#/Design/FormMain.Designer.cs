@@ -71,25 +71,25 @@
             this.button2_1.Text = "Agregar Tarea desde Archivo";
             this.button2_1.Click += new EventHandler(this.button2_Agregar_Tarea);
 
-            this.button3.Location = new System.Drawing.Point(15, 130);
+            this.button3.Location = new System.Drawing.Point(15, 160);
             this.button3.Name = "ListTarea";
             this.button3.Size = new System.Drawing.Size(300, 25);
-            this.button3.Text = "Lista de Tarea";
+            this.button3.Text = "Lista de Tareas";
             this.button3.Click += new EventHandler(this.button3_Click_1);
 
-            this.button4.Location = new System.Drawing.Point(15, 160);
+            this.button4.Location = new System.Drawing.Point(15, 190);
             this.button4.Name = "ModProcesador";
             this.button4.Size = new System.Drawing.Size(300, 25);
             this.button4.Text = "Modificar Procesador";
             this.button4.Click += new EventHandler(this.button4_Click_1);
 
-            this.button5.Location = new System.Drawing.Point(15, 190);
+            this.button5.Location = new System.Drawing.Point(15, 220);
             this.button5.Name = "Iniciar";
             this.button5.Size = new System.Drawing.Size(300, 25);
             this.button5.Text = "Iniciar";
             this.button5.Click += new EventHandler(this.button5_Click_1);
 
-            this.button6.Location = new System.Drawing.Point(15, 220);
+            this.button6.Location = new System.Drawing.Point(15, 250);
             this.button6.Name = "Eliminar";
             this.button6.Size = new System.Drawing.Size(300, 25);
             this.button6.Text = "Eliminar";
@@ -105,6 +105,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button2_1);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button6);

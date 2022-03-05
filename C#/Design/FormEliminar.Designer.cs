@@ -38,5 +38,6 @@ namespace Interfaz
         
         private Label label1;
         private TextBox textBox1;
+        private DataGridView dataGridView1;
     }
 }
