@@ -18,6 +18,7 @@ namespace Interfaz
             this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
 
             this.label1.Location = new System.Drawing.Point(20, 20);
             this.label1.Name = "labe1";
@@ -28,10 +29,15 @@ namespace Interfaz
             this.textBox1.Name = "TextBox1";
             this.textBox1.Size = new System.Drawing.Size(35, 25);
 
+            this.dataGridView1.Location = new System.Drawing.Point(20, 50);
+            this.dataGridView1.Name = "BD";
+            this.dataGridView1.Size = new System.Drawing.Size(250, 180);
+
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(300, 250);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.dataGridView1);
             this.Name = "EliminarTarea";
             this.Text = "Eliminar Tarea";
         }
