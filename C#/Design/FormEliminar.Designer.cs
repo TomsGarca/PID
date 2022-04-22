@@ -1,3 +1,4 @@
+
 namespace Interfaz
 {
     partial class Form4
@@ -29,12 +30,12 @@ namespace Interfaz
             this.textBox1.Name = "TextBox1";
             this.textBox1.Size = new System.Drawing.Size(35, 25);
 
-            this.dataGridView1.Location = new System.Drawing.Point(20, 50);
+            this.dataGridView1.Location = new System.Drawing.Point(20, 60);
             this.dataGridView1.Name = "BD";
-            this.dataGridView1.Size = new System.Drawing.Size(250, 180);
+            this.dataGridView1.Size = new System.Drawing.Size(260, 180);
 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(300, 250);
+            this.ClientSize = new System.Drawing.Size(300, 260);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.dataGridView1);
@@ -45,5 +46,6 @@ namespace Interfaz
         private Label label1;
         private TextBox textBox1;
         private DataGridView dataGridView1;
+        private BindingSource bindingSource1;
     }
 }
