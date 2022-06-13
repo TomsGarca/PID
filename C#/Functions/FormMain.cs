@@ -46,7 +46,8 @@ namespace Interfaz
 
         private void button3_Click_1(object sender, EventArgs e)
         {
-
+            Form emergenteLT = new Form6();
+            emergenteLT.Show();
         }
 
         private void button4_Click_1(object sender, EventArgs e)
@@ -63,7 +64,7 @@ namespace Interfaz
         private void button6_Click_1(object sender, EventArgs e)
         {
             Form emergenteET = new Form4();
-            emergenteET.ShowDialog();
+            emergenteET.Show();
         }
     }
 }

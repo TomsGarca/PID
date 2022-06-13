@@ -28,3 +28,13 @@ D:\GitHub_Rep\PID\C#\obj\Debug\net6.0-windows\Interfaz.dll
 D:\GitHub_Rep\PID\C#\obj\Debug\net6.0-windows\ref\Interfaz.dll
 D:\GitHub_Rep\PID\C#\obj\Debug\net6.0-windows\Interfaz.pdb
 D:\GitHub_Rep\PID\C#\obj\Debug\net6.0-windows\Interfaz.genruntimeconfig.cache
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\GitHub_Rep\PID\C#\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\GitHub_Rep\PID\C#\obj\Debug\net6.0-windows\Interfaz.csproj.CopyComplete
