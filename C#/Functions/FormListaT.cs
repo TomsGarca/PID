@@ -3,6 +3,7 @@ namespace Interfaz
 {
     public partial class Form6 : Form
     {
+        MySqlConnection conn;
         public Form6()
         {
             InitializeComponent();
@@ -11,15 +12,20 @@ namespace Interfaz
         private void Form6_Load(object sender, EventArgs e)
         {
             connect();
+            if (true)
+            {
+                
+            }
         }
 
         private void connect()
         {
-            MySqlConnection conn;
+            // MySqlConnection conn;
             string server = "localhost";
             string database = "pid";
             string user = "root";
-            string password = "12346578a";
+            string password = "12345678a";
+            //string password = "";
             string port = "3306";
             string sslM = "none";
 
@@ -30,16 +36,26 @@ namespace Interfaz
             {
                 conn.Open();
 
+                this.label1_1.Text = "Conectado";
                 this.label1_1.BackColor = Color.Green;
-                Console.WriteLine("Connection Successful");
+                this.label1_1.Size = new System.Drawing.Size(130, 40);
 
-                conn.Close();
+                this.Controls.Add(this.button1);
+                
             }
             catch (MySqlException e)
             {
                 Console.WriteLine(e.Message + connString);
             }
         }
+        
+        private void button1_close(Object sender, EventArgs e)
+        {
+            conn.Close();
 
+            this.label1_1.Text = "Desconectado";
+            this.label1_1.BackColor = Color.Red;
+            this.label1_1.Size = new System.Drawing.Size(165, 40);
+        }
     }
 }
